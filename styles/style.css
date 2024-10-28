@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+video {
+    width: 800px;
+    height: 400px;
+}
+
+.mem-title {
+    color: red;
+}
+
+.mem-description {
+    color: lime;
+}
+
+.description-block {
+    width: 1000px;
+}

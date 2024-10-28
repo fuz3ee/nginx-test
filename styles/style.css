@@ -6,7 +6,7 @@ body {
 }
 
 video {
-    width: 800px;
+    width: 50%;
     height: 400px;
 }
 
@@ -19,5 +19,5 @@ video {
 }
 
 .description-block {
-    width: 1000px;
+    width: 50%;
 }
